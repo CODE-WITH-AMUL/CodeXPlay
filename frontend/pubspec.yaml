@@ -39,6 +39,12 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
 
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/codeXPlay.png"
+
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -101,3 +107,5 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+
+
